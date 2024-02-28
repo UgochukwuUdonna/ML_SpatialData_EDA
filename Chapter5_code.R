@@ -1,9 +1,6 @@
 ## Geographical Data Science and Spatial Data Analysis: An Introduction in R
-## Lex Comber and Chris Brunsdon
-## The code correct as of July 2020. Please let us know if it needs updating
-## email: a.comber@leeds.ac.uk
 
-## Chapter 5: EDA and Finding Structure in Data
+## EDA and Finding Structure in Data
 
 library(tidyverse)
 library(RColorBrewer)
