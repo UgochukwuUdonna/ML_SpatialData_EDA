@@ -1,9 +1,6 @@
 ## Geographical Data Science and Spatial Data Analysis: An Introduction in R
-## Lex Comber and Chris Brunsdon
-## The code correct as of July 2020. Please let us know if it needs updating
-## email: a.comber@leeds.ac.uk
 
-## Chapter 2: Data and Spatial Data in R
+## Data and Spatial Data in R
 
 install.packages("tidyverse")
 library(tidyverse)
